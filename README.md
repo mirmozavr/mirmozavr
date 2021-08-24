@@ -2,7 +2,7 @@
 - 👀 I’m interested in python development and programming
 - 🌱 I’m currently learning advanced python techniques and libraries
 - 💞️ I’m looking to collaborate on a development project
-- 📫 Reach me any way you find reasonable
+- 📫 Reach me any way you find reasonable, check out my web-page tho [web-page](http://movses.org "Push it!")
 
 <!---
 mirmozavr/mirmozavr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
