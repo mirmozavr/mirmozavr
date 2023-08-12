@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirmozavr
-- 👀 I’m interested in python development and programming
-- 🌱 I’m currently working at [ArtLabs](https://github.com/ArtLabss) and studying DS and ML
+- 👀 I’m interested in python development, machine learning, data science
+- 🌱 I’m currently working at [ArtLabs](https://github.com/ArtLabss)
 - 💞️ I’m looking to collaborate on a development project
 
 <!---
