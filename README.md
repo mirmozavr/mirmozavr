@@ -1,4 +1,4 @@
-## Art Kulakov - Python Backend & AI Developer 
+## Movses M. - Python Backend & AI Developer 
 
 - :notebook: Worked in Python Backend for 4 years
 - :mortar_board: BSc in Computer Science
